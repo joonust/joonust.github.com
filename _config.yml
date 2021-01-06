@@ -1,17 +1,13 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
+name: JOON
+title: JOON | PURPORELESS, JUST FOR FUN
+description: JOON 2021
   Thiago Rossener.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: JOON
     url: http://joonust.github.io
   - title: About
     url: /about
@@ -19,7 +15,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: JOON@JOON.COM
 disqus_username: disqus_username
 
 
