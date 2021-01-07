@@ -1,17 +1,18 @@
 # Site Settings
 name: JOON
+<<<<<<< HEAD
 title: JOON | Blog
 description: JOON
+=======
+title: JOON | PURPORELESS, JUST FOR FUN
+description: JOON 2021
+>>>>>>> 263a1239ceb3893ccaa4dfbd910a30d273ae660d
   Thiago Rossener.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: JOON
     url: http://joonust.github.io
   - title: About
     url: /about
@@ -19,8 +20,13 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+<<<<<<< HEAD
 email: korovamilker@gmail.com
 disqus_username: Joonust
+=======
+email: JOON@JOON.COM
+disqus_username: disqus_username
+>>>>>>> 263a1239ceb3893ccaa4dfbd910a30d273ae660d
 
 
 # Social Media Settings
