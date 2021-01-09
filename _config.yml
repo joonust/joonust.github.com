@@ -11,18 +11,14 @@ menu:
     url: http://joonust.github.io
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
 email: korovamilker@gmail.com
 disqus_username: Joonust
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_joonust
-instagram_username: instagram_fla.tra
+github_username: joonust
+instagram_username: fla.tra
 linkedin_username: linkedin_username
 
 
@@ -94,4 +90,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+# version: v3.1.0
